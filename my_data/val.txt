@@ -1,0 +1,8 @@
+my_data/images/val/Czech_000000.jpg
+my_data/images/val/Czech_000001.jpg
+my_data/images/val/Czech_000002.jpg
+my_data/images/val/Czech_000006.jpg
+my_data/images/val/Czech_000007.jpg
+my_data/images/val/Czech_000009.jpg
+my_data/images/val/Czech_000010.jpg
+my_data/images/val/Czech_000011.jpg

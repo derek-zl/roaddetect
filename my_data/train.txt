@@ -1,0 +1,16 @@
+my_data/images/train/Czech_000732.jpg
+my_data/images/train/Czech_000733.jpg
+my_data/images/train/Czech_000734.jpg
+my_data/images/train/Czech_000735.jpg
+my_data/images/train/Czech_000737.jpg
+my_data/images/train/Czech_000738.jpg
+my_data/images/train/Czech_000739.jpg
+my_data/images/train/Czech_000740.jpg
+my_data/images/train/Czech_000742.jpg
+my_data/images/train/Czech_000743.jpg
+my_data/images/train/Czech_000744.jpg
+my_data/images/train/Czech_000745.jpg
+my_data/images/train/Czech_000746.jpg
+my_data/images/train/Czech_000747.jpg
+my_data/images/train/Czech_000748.jpg
+my_data/images/train/Czech_000749.jpg
